@@ -22,12 +22,9 @@ Before you start, ensure you have the following installed:
 
 ## Installation
 
-1. **Installation**:
-```bash
-   Install Flutter:
+1. **Install Flutter**:
    Follow the official Flutter installation guide based on your operating system:
    https://flutter.dev/get-started/
-```
 
 2. **Clone the Repository**:
    ```bash
