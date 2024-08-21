@@ -22,17 +22,24 @@ Before you start, ensure you have the following installed:
 
 ## Installation
 
-1. **Clone the Repository**:
+1. **Installation**:
+```bash
+   Install Flutter:
+   Follow the official Flutter installation guide based on your operating system:
+   https://flutter.dev/get-started/
+```
+
+2. **Clone the Repository**:
    ```bash
    git clone https://github.com/KomalJain2607/api_management_.git
    ```
 
-2. **Navigate to the Project Directory**:
+3. **Navigate to the Project Directory**:
    ```bash
    cd api_management_
    ```
 
-3. **Install Dependencies**:
+4. **Install Dependencies**:
    ```bash
    flutter pub get
    ```
